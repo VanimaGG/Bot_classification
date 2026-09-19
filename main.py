@@ -34,4 +34,4 @@ async def imagem(ctx):
     else:
         await ctx.send("Você não enviou uma imagem!")
 
-bot.run("MTU0ODMyOTMzMjU5NjkzMjcxOQ.G9inn5.b7_HXOMRTDNxmIdVCL70dNKc7IwOWz9NYizdYw")
+bot.run("a")
